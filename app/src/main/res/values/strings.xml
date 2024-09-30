@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment06</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Greetings">Welcome !!</string>
+    <string name="pictureDesc">pic</string>
+    <string name="startButton">Start</string>
+    <string name="nextBTN">Next</string>
+    <string name="createTitle">Create User Info</string>
+    <string name="nameLabel">Name</string>
+    <string name="emailHint">Enter Email\n</string>
+    <string name="roleTV">Role</string>
+    <string name="studentRB">Student\n</string>
+    <string name="employeeRB">Employee</string>
+    <string name="otherRB">Other</string>
+    <string name="nameHint">Enter name\n</string>
+    <string name="emailLabel">Email</string>
+    <string name="profileTitle">User Profile</string>
+    <string name="None">None</string>
+    <string name="UpdateBtn">Update</string>
+    <string name="CancelChange">Cancel\n</string>
+    <string name="Edit_Title">Edit</string>
+</resources>
